@@ -1,5 +1,5 @@
 # CyberTech Talks wallpapers
-CyberTech Talks wallpapers make by me :)
+CyberTech Talks wallpapers made by me :)
 
 Enjoy!
 #
