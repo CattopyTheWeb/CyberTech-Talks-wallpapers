@@ -1,5 +1,5 @@
-# CyberTech Talks wallpapers
-CyberTech Talks wallpapers made by me :)
+# My wallpapers
+Wallpapers made by me :)
 
 Enjoy!
 #
@@ -11,4 +11,4 @@ Enjoy!
 
 **Can I share them?** - Yes you can. Just make sure to give me credit :)
 
-**Can I make my own version?** - Kind of. If you make your own version of it, please make a Pull request and add them and then I'll give you credit.
+**Can I make my own version?** - Yes, just don't forget to give me credit.
